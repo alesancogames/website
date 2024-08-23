@@ -877,7 +877,7 @@ a:focus {
 
 .footer_section .footer_contact .contact_link_box a {
   margin: 5px 0;
-  color: #ffffff;
+  color: #ffbe33;
 }
 
 .footer_section .footer_contact .contact_link_box a i {
@@ -885,7 +885,7 @@ a:focus {
 }
 
 .footer_section .footer_contact .contact_link_box a:hover {
-  color: #ffbe33;
+  color: #ffffff;
 }
 
 .footer_section .footer-logo {
@@ -939,8 +939,12 @@ a:focus {
   margin: 0;
 }
 
-.footer_section .footer-info p a {
-  color: inherit;
+.footer_section .footer-info a {
+  color: #ffbe33;
+}
+
+.footer_section .footer-info a:hover {
+  color: #ffffff;
 }
 
 .game-detail .img-box img {
@@ -965,8 +969,14 @@ a:focus {
   color: #222831;
 }
 
+.close-modal {
+  font-family: 'Broken';
+  font-size: 40px;
+  color: #84329B;
+}
+
 .wip {
-  color: #ffbe33;
+  color: #999999;
 }
 
 /*# sourceMappingURL=style.css.map */
